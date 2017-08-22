@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE8B1367",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 50.9545065,
+    "ref_longitude": 4.8205411,
+    "ref_altitude": 70,
+    "contact_email": "dirk@cdtechnics.be",
+    "description": "TTN Nieuwrode"
+  }
+}
